@@ -1,4 +1,4 @@
-# 🤖 Claude Code — Complete Course
+# Claude Code — Complete Course 🔥
 
 > **The most comprehensive, beginner-to-advanced guide for Claude Code** — from zero setup to building real AI-powered workflows with custom models via Ollama.
 
